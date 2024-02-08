@@ -21,7 +21,7 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px 0;
-    margin-bottom: 105px;
+    margin-bottom: 110px;
 }
 
 header h1 {
@@ -136,7 +136,6 @@ footer p {
 #Projects:target .container {
     display: block;
 }
-
 .profile-picture {
     width: 150px; 
     height: 150px;
