@@ -136,3 +136,11 @@ footer p {
 #Projects:target .container {
     display: block;
 }
+
+.profile-picture {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%; 
+    border: 2px solid #fff; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); 
+}
